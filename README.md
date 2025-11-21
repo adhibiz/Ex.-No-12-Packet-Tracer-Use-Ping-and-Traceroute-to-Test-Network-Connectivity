@@ -16,7 +16,8 @@ ________________________________________<br>
 • Copper straight-through and serial DCE/DTE cables<br>
 ________________________________________<br>
 # Network Topology Diagram
-(Insert your Packet Tracer screenshot showing R1 ↔ R2 ↔ R3 with PCs PC1–PC4 connected.)<br>
+<img width="1668" height="702" alt="image" src="https://github.com/user-attachments/assets/b16ae1f7-dadb-4849-9118-1d0a488092e7" />
+<br>
 ________________________________________<br>
 Addressing Table<br>
 Device	Interface	IPv4 Address / Subnet Mask	IPv6 Address / Prefix	Default Gateway<br>
